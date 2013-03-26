@@ -1,0 +1,8 @@
+{
+    "identifier": "Hoxton",
+    "name": "Hoxton",
+    "parent": "Hackney",    
+    "color": "#CB6155",
+    "type": "MultiPoint",
+    "coordinates": []
+}

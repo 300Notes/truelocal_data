@@ -1,0 +1,8 @@
+{
+    "identifier": "Haggerston",
+    "name": "Haggerston",
+    "parent": "Hackney",    
+    "color": "#CB8830",
+    "type": "MultiPoint",
+    "coordinates": [ ]
+}

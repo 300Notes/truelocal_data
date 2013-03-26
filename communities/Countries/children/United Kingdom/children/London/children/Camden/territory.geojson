@@ -1,0 +1,8 @@
+{
+    "identifier": "Camden",
+    "name": "Camden",
+    "parent": "London",
+    "color": "#FFE90C",
+    "type": "MultiPoint",
+    "coordinates": [ ]
+}

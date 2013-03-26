@@ -1,0 +1,8 @@
+{
+    "identifier":"Regent's Park",
+    "name": "Regent's Park",
+    "parent": "Camden",
+    "color": "#48104F",
+    "type": "MultiPoint",
+    "coordinates": []
+}

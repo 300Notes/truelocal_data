@@ -1,0 +1,8 @@
+{
+    "identifier": "Hackney",
+    "name": "Hackney",
+    "parent": "London",
+    "color": "#FFE90C",
+    "type": "MultiPoint",
+    "coordinates": [ ]
+}

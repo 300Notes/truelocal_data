@@ -1,0 +1,8 @@
+{
+    "identifier": "Croydon",
+    "name": "Croydon",
+    "parent": "London",
+    "color": "#FFE90C",
+    "type": "MultiPoint",
+    "coordinates": [ ]
+}

@@ -1,0 +1,8 @@
+{
+    "identifier": "Queensbridge",
+    "name": "Queensbridge",
+    "parent": "Hackney",    
+    "color": "#9D72CB",
+    "type": "MultiPoint",
+    "coordinates": []
+}
